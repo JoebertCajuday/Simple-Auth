@@ -5,7 +5,6 @@
 
 ## Libraries used
 <ul>
-
     <li>ExpressJs</li>
     <li>Sequelize</li>
     <li>Bcrypt</li>
@@ -14,5 +13,4 @@
     <li>Morgan</li>
     <li>Helmet</li>
     <li>Cors</li>
-
 </ul>
